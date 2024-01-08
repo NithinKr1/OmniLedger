@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'sign_options.dart';
-import 'main_screen.dart';
+//import 'sign_options.dart';
+//import 'main_screen.dart';
 
 class RegisterHere extends StatelessWidget {
   const RegisterHere({Key? key}) : super(key: key);

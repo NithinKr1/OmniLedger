@@ -3,6 +3,7 @@ import 'package:omniledger/MainScreens/sign_in.dart';
 import 'sign_up.dart';
 
 class SignOptions extends StatelessWidget {
+  // ignore: use_key_in_widget_constructors
   const SignOptions({Key? key});
 
   @override
