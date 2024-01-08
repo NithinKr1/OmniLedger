@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'sign_options.dart';
 
 // ignore: camel_case_types
-
+//This is a test branch
 // ignore: camel_case_types
 class splash_screen extends StatelessWidget {
   const splash_screen({Key? key}) : super(key: key);
